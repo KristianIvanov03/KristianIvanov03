@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kristian Ivanov</h1>
 <h3 align="center">A passionate frontend/ newbie backend developer from Bulgaria</h3>
 
+- 🔭 I’m currently working on [Detailing_business_project](https://github.com/KristianIvanov03/Detailing_business_project/tree/master)
+
 - 🌱 I’m currently learning **informatics at New Bulgarian University**
 
 - 💬 Ask me about **React, Express.js, MongoDB, Node.js**
